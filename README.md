@@ -1,3 +1,5 @@
+![alt text](https://github.com/ArturV93/react-reminder-to-do/blob/main/Screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
